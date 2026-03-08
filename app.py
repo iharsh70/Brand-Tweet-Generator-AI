@@ -203,7 +203,7 @@ st.markdown("""
     /* Hide Streamlit branding */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
-    header {visibility: hidden;}
+   
 
     /* Custom form styling */
     div[data-testid="stForm"] {
